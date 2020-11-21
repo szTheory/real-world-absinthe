@@ -1,0 +1,4 @@
+[submodule "apps/alertas.ec"]
+	path = apps/alertas.ec
+	url = git@github.com:mijailr/alertas.ec.git
+	branch = master
